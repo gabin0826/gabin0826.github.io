@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-09-첫 포스팅.md",
+                "file": "template/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-09-첫 포스팅.md",
+                "file": "template/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-09-첫 포스팅.md",
+                "file": "template/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-09-첫 포스팅.md"
+                "file": "template/무제 파일.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "3aaa203b99ddb233",
   "lastOpenFiles": [
-    "template/무제 파일.md",
+    "2024-04-09 옵시디언 포스팅.md",
     "2024-04-09-첫 포스팅.md",
-    "template",
-    "2024-04-09 옵시디언 포스팅.md"
+    "template/무제 파일.md",
+    "template"
   ]
 }
