@@ -711,7 +711,6 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  /*background: var(--sidebar-bg);*/
   background: url('https://mblogthumb-phinf.pstatic.net/MjAxNzEwMDNfMjgz/MDAxNTA3MDM0NzYzODU2.nFmv9fDH2UldN5pf4j3Nme2ZbX1-o5Y3soUYGnuPDVog.kVDU0VrJG2cMNb45gWM4d8xt3TMtk1bOTiLOnt5lQWsg.JPEG.lastmistake/00.jpg?type=w800');
   background-size: 100% 100%;
   background-position: center;
@@ -809,16 +808,6 @@ $btn-mb: 0.5rem;
 
         &:hover {
           background-color: var(--sidebar-hover-bg);
-          span {
-            opacity: 1;
-            color: white;
-          }
-          i {
-            font-size: 100%;
-            opacity: 1;
-            margin-right: 1.5rem;
-            color: white;
-          }
         }
 
         i {
