@@ -15,7 +15,7 @@
               "state": {
                 "file": "2024-04-09-옵시디언 포스팅.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3aaa203b99ddb233",
+  "active": "69354d6c4581b4ae",
   "lastOpenFiles": [
     "2024-04-09-첫 포스팅.md",
     "2024-04-09-옵시디언 포스팅.md",
