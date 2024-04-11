@@ -1,5 +1,5 @@
 ---
-title: 5. 참조 타입
+title: j5. 참조 타입
 author: gabin
 date: 2024-04-12 T01:00:00
 categories: [Backend, Java]
