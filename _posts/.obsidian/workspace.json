@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-04-09-첫 포스팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-04-09-첫 포스팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-04-09-첫 포스팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "2024-04-09-첫 포스팅.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "0810db28d1eefd75",
   "lastOpenFiles": [
+    "2024-04-09-옵시디언 포스.md",
     "2024-04-09-첫 포스팅.md",
     "무제 파일.md",
     "template/blog template.md",
-    "2024-04-09-옵시디언 포스.md",
     "template"
   ]
 }
