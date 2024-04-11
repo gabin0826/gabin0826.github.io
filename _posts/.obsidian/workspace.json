@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-12-5. 참조 타입.md",
+                "file": "2024-04-12-Java Syntax 5. 참조 타입.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-12-5. 참조 타입.md",
+                "file": "2024-04-12-Java Syntax 5. 참조 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-12-5. 참조 타입.md",
+                "file": "2024-04-12-Java Syntax 5. 참조 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-12-5. 참조 타입.md"
+                "file": "2024-04-12-Java Syntax 5. 참조 타입.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "9f3d4368643ef8c2",
   "lastOpenFiles": [
     "2024-04-09-첫 포스팅.md",
-    "2024-04-12-5. 참조 타입.md",
+    "2024-04-12-Java Syntax 5. 참조 타입.md",
     "무제 폴더",
     "2024-04-09-옵시디언 포스.md",
     "무제 파일.md",
