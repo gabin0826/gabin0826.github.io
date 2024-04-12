@@ -59,8 +59,7 @@ aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 힙 다르게 �
 
 
 ## null & NullPointerException
-
-
+참조 타입은 참조할 수도 있고 안 할 수도 있다 그래서 `null`값이 존재한다
 
 
 

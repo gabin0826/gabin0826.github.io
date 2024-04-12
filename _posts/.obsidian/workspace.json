@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-09-첫 포스팅.md",
+                "file": "2024-04-12-Java Syntax 5) 참조 타입.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +170,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9f3d4368643ef8c2",
+  "active": "3aaa203b99ddb233",
   "lastOpenFiles": [
     "2024-04-09-첫 포스팅.md",
     "2024-04-12-Java Syntax 5) 참조 타입.md",
