@@ -113,7 +113,9 @@ work1 = null; //null로 지정
 
 ### 문자열 비교
 > 자바는 문자열이 동일하면 같은 String 객체를 공유한다
-`String name = "gabin`
+
+
+`String name1 = "gabin;``String name2 = "gabin;` 이라면 name 1과 2의 스택 번지값을 다를지라도 힙에는 같은 String 객체인 gabin을 참조할 것이다.
 
 
 
