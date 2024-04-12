@@ -112,7 +112,9 @@ work1 = null; //null로 지정
 > 자바에서 문자열은 String 객체(데이터)로 생성된다. 중요한 점은 String A = "gabin"일 때, A = gabin이 아닌 gabin이라는 문자열이 변수 A에 대입되는 것이다.
 
 ### 문자열 비교
-> 자바는 문자열이 동일하면 같은 String 값을 
+> 자바는 문자열이 동일하면 같은 String 객체를 공유한다
+`String name = "gabin`
+
 
 
 
