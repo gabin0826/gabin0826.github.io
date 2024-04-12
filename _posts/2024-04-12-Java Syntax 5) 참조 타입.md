@@ -63,7 +63,10 @@ aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 힙 다르게 �
 
 - **참조 타입 변수가 null 값을 가지는지 확인**  매우 쉬움!
 ```java
-  aar 1 == null // 이렇게 null과 같은지 물어본다
+ String aar1 = "자바";
+ String aar2 = null;
+ 
+  aar 1 == null // 이렇게 null과 같은지 물어본다 t
   aar 1 != null
 
 ```
