@@ -118,7 +118,7 @@ work1 = null; //null로 지정
 `String name1 = "gabin;``String name2 = "gabin;` 이라면 name 1과 2의 스택 번지값을 다를지라도 힙에는 같은 String 객체인 gabin을 참조한다
 - **new 연산자를 이용**
   새로운 객체를 만드는 연산자(객체 생성 연산자)인 new 연산자를 이용할 수 있다.
-  `String name1 = new String("gabin")
+  `String name1 = new String("gabin");`   `String name2 = new String("gabin");` 이렇게 되면 String 객체가 각각 새롭게 만들어지기 때문에 같은 ㅎ
   
 - 
 
