@@ -133,7 +133,7 @@ work1 = null; //null로 지정
 
 
 ---
-## 다차원 Array(배열) 타입 참조 변수
+## class, interface 참조타입 배열
 
 
 
