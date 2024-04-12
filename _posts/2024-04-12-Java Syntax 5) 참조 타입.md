@@ -23,9 +23,9 @@ tags: [Syntax]
 
 ```java
 public static void main(String[] args) {
-	int [] aar1;
-	int [] aar2;
-	int [] aar3;
+	aar1 = new int[] {1,2,3};
+	aar2 = new int[] {1,2,3};
+	aar3 = arr2;
 	
 }
 
