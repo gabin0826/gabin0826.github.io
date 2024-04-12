@@ -108,7 +108,8 @@ work1 = null; //null로 지정
 
 
 ---
-## String 타입
+## String 타입 참조 변수
+
 
 
 
