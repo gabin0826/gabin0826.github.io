@@ -3,7 +3,7 @@ title: Java Syntax 5) 참조 타입
 author: gabin
 date: 2024-04-12 T01:00:00
 categories: [Backend, Java]
-tags: [Syntax]
+tags: [Syntax, 참조타입, nullPointerExcetption]
 ---
 > 앞서 배운 정수타입, 실수 타입, 논리타입은 기본 타입에 속한다.
 > 자바에서는 이렇게 데이터 타입에 두가지로 나뉘는데 이번에는 참조 타입을 알아보자.
