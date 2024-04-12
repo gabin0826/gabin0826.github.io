@@ -116,7 +116,9 @@ work1 = null; //null로 지정
 
 - **같은 객체 공유**
 `String name1 = "gabin;``String name2 = "gabin;` 이라면 name 1과 2의 스택 번지값을 다를지라도 힙에는 같은 String 객체인 gabin을 참조한다
-- **new 연산자를 잉**
+- **new 연산자를 이용**
+  새로운 객체를 만드는 연산자(객체 생성 연산자)인 new 연산자
+- 
 
 
 
