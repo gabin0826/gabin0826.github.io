@@ -58,8 +58,9 @@ aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 힙 다르게 �
 
 
 
+## null & NullPointerException
 
-#
+
 
 
 
