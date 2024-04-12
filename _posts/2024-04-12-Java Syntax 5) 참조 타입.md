@@ -28,10 +28,13 @@ public static void main(String[] args) {
 	aar3 = arr2;
 	
 	System.out.println(arr1 == arr2); //false
-	System.out.println(arr2 == arr3);
+	System.out.println(arr2 == arr3); //true
 }
 
 ```
+
+aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 번지수가 다르고 힙도 다르게 각각 1,2,3 / 1,2,3이 저장된 것이다 그러므로 참조하는 곳이 다르다 그래서 arr1 == a
+
 
 ## 메모리 사용 영역
 모든 변수들은 스택에 생성되고 기본타입은 **<mark>스택</mark>** 에 직접 값을 저장하지만 참조 타입은 스택에 번지값이 있고 실제 값은 <mark>힙 메모리</mark>에 저장되어있다.
