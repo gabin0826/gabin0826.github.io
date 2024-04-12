@@ -69,10 +69,15 @@ aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 힙 다르게 �
   aar 1 == null //위에서 정의한 대로 aar1은 자바라는 데이터를 저장했기 대문에 false
   aar 1 != null //true
 
-  aar 2 == null //위에서 정의한대로 null값과 자
-  aar 2 != null 
+  aar 2 == null //위에서 정의한대로 null값과 같다
+  aar 2 != null //false
 
 ```
+
+
+알다시피, 
+
+
 
 
 
