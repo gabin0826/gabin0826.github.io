@@ -22,6 +22,11 @@ tags: [Syntax]
 -> `if` 문과 많이 사용한다
 
 ```java
+
+
+```
+
+```java
 public static void main(String[] args) {
 	aar1 = new int[] {1,2,3};
 	aar2 = new int[] {1,2,3};
@@ -33,7 +38,7 @@ public static void main(String[] args) {
 
 ```
 
-aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 번지수가 다르고 힙도 다르게 각각 1,2,3 / 1,2,3이 저장된 것이다 그러므로 참조하는 곳이 다르다 그래서 arr1 == a
+aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 번지수가 다르고 힙도 다르게 각각 1,2,3 / 1,2,3이 저장된 것이다 그러므로 참조하는 곳이 다르다 그러므로 arr1 == arr2 는 거짓이다.
 
 
 ## 메모리 사용 영역
