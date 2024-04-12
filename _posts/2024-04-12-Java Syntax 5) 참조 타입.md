@@ -22,7 +22,12 @@ tags: [Syntax]
 -> `if` 문과 많이 사용한다
 
 ```java
-
+public static void main(String[] args) {
+	int [] aar1;
+	int [] aar2;
+	int [] aar3;
+	
+}
 
 ```
 
