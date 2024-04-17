@@ -175,7 +175,8 @@ String newWorking = working.replace("정리하기","이불 빨래하기");
 
 
 
-### 문자열 자르기 : 
+### 문자열 자르기 : substring()
+
 
 ---
 ## Array(배열) 타입 참조 변수
