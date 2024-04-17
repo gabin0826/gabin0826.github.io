@@ -113,8 +113,7 @@ work1 = null; //null로 지정
 > 자바에서 문자열은 String 객체(데이터)로 생성된다. 중요한 점은 String A = "gabin"일 때, A = gabin이 아닌 gabin이라는 문자열이 변수 A에 대입되는 것이다.
 
 ### 문자열 비교
-> ```css
-<span style="background-color:#fff5b1"> 노란형광펜 </span>자바는 문자열이 동일하면 같은 String 객체를 공유한다
+> <span style="background-color:#fff5b1"> 자바는 문자열이 동일하면 같은 String 객체를 공유한다 </span>
 
 - **같은 객체 공유**
 	`String name1 = "gabin;``String name2 = "gabin;` 이라면 name 1과 2의 스택 번지값을 다를지라도 힙에는 같은 String 객체인 gabin을 참조한다
