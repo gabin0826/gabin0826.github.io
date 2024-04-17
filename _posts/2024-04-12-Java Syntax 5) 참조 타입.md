@@ -130,8 +130,10 @@ work1 = null; //null로 지정
 	  기본 문자열. equals(비교할 문자열)
 	```java
 	boolean result = name3.equals(name4); //같은지
-	boolean result = !name3.equals(name4); //같지 않은지 
+	boolean result = !name3.equals(name4); //같지 않은지
 	```
+
+- **비어있는 문자열일 경우 ""**
 
 
 ---
