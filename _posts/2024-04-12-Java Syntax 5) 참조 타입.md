@@ -161,7 +161,7 @@ char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> "�
 ### 문자열 길이 : length()
 
 ```java
-String working = "자바 공부하기"; //쿠팡_알바 총 4번쨰 인덱스까지 나온다
+String working = "자바 공부하기";
 int length = working.length(); // 공백 포함  길이가 7
 ```
 
@@ -169,8 +169,8 @@ int length = working.length(); // 공백 포함  길이가 7
 
 ### 문자열 대체 : replace()
 ```java
-String working = "이불 정리하기"; //쿠팡_알바 총 4번쨰 인덱스까지 나온다
-int length = working.length(); // 공백 포함  길이가 7
+String working = "이불 정리하기"; 
+String newWorking = working.replace("이불 빨래하기);
 ```
 
 ---
