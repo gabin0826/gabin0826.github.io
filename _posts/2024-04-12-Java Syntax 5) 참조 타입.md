@@ -3,7 +3,7 @@ title: Java Syntax 5) 참조 타입
 author: gabin
 date: 2024-04-12 T01:00:00
 categories: [Backend, Java]
-tags: [Syntax, 참조타입, nullPointerExcetption]
+tags: [Syntax, 참조타입, nullPointerExcetption, 이것이자바다]
 toc: true
 ---
 > 앞서 배운 정수타입, 실수 타입, 논리타입은 기본 타입에 속한다.
@@ -172,6 +172,10 @@ int length = working.length(); // 공백 포함  길이가 7
 String working = "이불 정리하기"; 
 String newWorking = working.replace("정리하기","이불 빨래하기");
 ```
+
+
+
+### 문자열 자르기 : 
 
 ---
 ## Array(배열) 타입 참조 변수
