@@ -151,7 +151,8 @@ work1 = null; //null로 지정
 `charAt()`메소드를 이용하면 되고 매개변수 값으로 인덱스의 문자를 리턴한다
 
 ```java
-String working = "쿠팡 알바"; 쿠팡_알바 총 4번쨰 인덱슦
+String working = "쿠팡 알바"; //쿠팡_알바 총 4번쨰 인덱스까지 나온다
+char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> 3
 ```
 ---
 ## Array(배열) 타입 참조 변수
