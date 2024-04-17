@@ -114,7 +114,7 @@ work1 = null; //null로 지정
 > 자바에서 문자열은 String 객체(데이터)로 생성된다. 중요한 점은 String A = "gabin"일 때, A = gabin이 아닌 gabin이라는 문자열이 변수 A에 대입되는 것이다.
 
 
-### 문자열 비교
+### 문자열 비교 : equals()
 > <span style="background-color:#fff5b1"> 자바는 문자열이 동일하면 같은 String 객체를 공유한다 </span>
 
 - **같은 객체 공유**
@@ -147,7 +147,7 @@ work1 = null; //null로 지정
 
 
 
-### 문자 추출
+### 문자 추출 : charAt()
 `charAt()`메소드를 이용하면 되고 매개변수 값으로 인덱스의 문자를 리턴한다
 
 ```java
@@ -157,7 +157,11 @@ char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> "�
 
 
 
-### 문자열 길이
+### 문자열 길이 : length()
+```java
+String working = "쿠팡 알바"; //쿠팡_알바 총 4번쨰 인덱스까지 나온다
+int length
+```
 
 ---
 ## Array(배열) 타입 참조 변수
