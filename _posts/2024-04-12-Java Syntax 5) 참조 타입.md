@@ -148,7 +148,9 @@ work1 = null; //null로 지정
 
 
 ### 문자 추출
-`charAt()`메소드를 이용하면 되고 매개변수 값
+`charAt()`메소드를 이용하면 되고 매개변수 값으로 인덱스의 문자를 리턴한다
+<span style="background-color:#E6E6FA"> 
+
 
 
 ---
