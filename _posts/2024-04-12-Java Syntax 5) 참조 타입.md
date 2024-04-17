@@ -167,7 +167,11 @@ int length = working.length(); // 공백 포함  길이가 7
 
 
 
-#
+### 문자열 대체 : replace()
+```java
+String working = "이불 정리하기"; //쿠팡_알바 총 4번쨰 인덱스까지 나온다
+int length = working.length(); // 공백 포함  길이가 7
+```
 
 ---
 ## Array(배열) 타입 참조 변수
