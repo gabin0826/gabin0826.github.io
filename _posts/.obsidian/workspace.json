@@ -170,13 +170,21 @@
                 "file": "2024-04-12-Java Syntax 5) 참조 타입.md"
               }
             }
+          },
+          {
+            "id": "753b9edb02ab4488",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +193,11 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aaa203b99ddb233",
+  "active": "753b9edb02ab4488",
   "lastOpenFiles": [
     "2024-04-09-첫 포스팅.md",
     "2024-04-12-Java Syntax 5) 참조 타입.md",
