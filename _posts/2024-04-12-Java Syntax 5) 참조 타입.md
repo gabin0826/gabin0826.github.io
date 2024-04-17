@@ -152,8 +152,13 @@ work1 = null; //null로 지정
 
 ```java
 String working = "쿠팡 알바"; //쿠팡_알바 총 4번쨰 인덱스까지 나온다
-char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> 3
+char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> "알"
 ```
+
+
+
+### 문자열 길이
+
 ---
 ## Array(배열) 타입 참조 변수
 
