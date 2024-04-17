@@ -112,6 +112,7 @@ work1 = null; //null로 지정
 ## String(문자열) 타입 참조 변수
 > 자바에서 문자열은 String 객체(데이터)로 생성된다. 중요한 점은 String A = "gabin"일 때, A = gabin이 아닌 gabin이라는 문자열이 변수 A에 대입되는 것이다.
 
+
 ### 문자열 비교
 > <span style="background-color:#fff5b1"> 자바는 문자열이 동일하면 같은 String 객체를 공유한다 </span>
 
@@ -120,8 +121,12 @@ work1 = null; //null로 지정
 - **new 연산자를 이용**
 	새로운 객체를 만드는 연산자(객체 생성 연산자)인 new 연산자를 이용할 수 있다.
 	`String name3 = new String("gabin");`   `String name4 = new String("gabin");` 이렇게 되면 String 객체가 각각 새롭게 만들어지기 때문에 같은 값을 참조하지 않는다. 중복으로 데이터(객체)가 생성된다는 것이다
+	
 
 #### ❗️ **new 연산자를 사용하는 것과 그냥 대입 선언 방식은 완전히 다른 연산 결과를 가지게 된다**
+
+
+
 
 
 ---
