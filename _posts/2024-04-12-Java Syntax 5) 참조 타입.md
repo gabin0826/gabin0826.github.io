@@ -4,6 +4,7 @@ author: gabin
 date: 2024-04-12 T01:00:00
 categories: [Backend, Java]
 tags: [Syntax, 참조타입, nullPointerExcetption]
+toc: true
 ---
 > 앞서 배운 정수타입, 실수 타입, 논리타입은 기본 타입에 속한다.
 > 자바에서는 이렇게 데이터 타입에 두가지로 나뉘는데 이번에는 참조 타입을 알아보자.
@@ -115,7 +116,7 @@ work1 = null; //null로 지정
 
 
 ### 문자열 비교 : equals()
-> <span style="background-color:#fff5b1"> 자바는 문자열이 동일하면 같은 String 객체를 공유한다 </span>
+자바는 문자열이 동일하면 같은 String 객체를 공유한다
 
 - **같은 객체 공유**
 	`String name1 = "gabin;``String name2 = "gabin;` 이라면 name 1과 2의 스택 번지값을 다를지라도 힙에는 같은 String 객체인 gabin을 참조한다
