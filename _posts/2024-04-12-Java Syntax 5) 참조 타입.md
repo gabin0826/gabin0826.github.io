@@ -170,7 +170,7 @@ int length = working.length(); // 공백 포함  길이가 7
 ### 문자열 대체 : replace()
 ```java
 String working = "이불 정리하기"; 
-String newWorking = working.replace("이불 빨래하기);
+String newWorking = working.replace("정리하기","이불 빨래하기");
 ```
 
 ---
