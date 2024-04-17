@@ -165,6 +165,10 @@ String working = "자바 공부하기"; //쿠팡_알바 총 4번쨰 인덱스까
 int length = working.length(); // 공백 포함  길이가 7
 ```
 
+
+
+#
+
 ---
 ## Array(배열) 타입 참조 변수
 
