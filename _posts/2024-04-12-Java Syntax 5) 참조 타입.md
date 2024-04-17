@@ -175,12 +175,19 @@ String newWorking = working.replace("정리하기","이불 빨래하기");
 
 
 
+
 ### 문자열 자르기 : substring()
 
 |                  메소드                   |                   특징                    |
 |:-----------------------------------------:|:-----------------------------------------:|
 |         substring(int 시작인덱스)         |      시작 인덱스에서 끝까지 잘라내기      |
 | substring(int 시작인덱스, int 종료인덱스) | 시작인덱스에서 종료인덱스 앞까지 잘라내기 |
+
+```java
+String working = "이불 정리하기"; 
+String newWorking = working.replace("정리하기","이불 빨래하기");
+```
+
 
 ---
 ## Array(배열) 타입 참조 변수
