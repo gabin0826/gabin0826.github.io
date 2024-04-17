@@ -128,14 +128,14 @@ work1 = null; //null로 지정
 #### ❗️ **new 연산자를 사용하는 것과 그냥 대입 선언 방식은 완전히 다른 연산 결과를 가지게 된다**
 
 - **내부의 문자열만 비교할 경우, equals()메소드 이용**
-	  기본 문자열. equals(비교할 문자열)
+	기본 문자열. equals(비교할 문자열)
 	```java
 	boolean result = name3.equals(name4); //같은지
 	boolean result = !name3.equals(name4); //같지 않은지
 	```
 
 - **비어있는 문자열일 경우 ""**
-	  빈 문자열도 객체로 생성되기 때문에 동일하게 equals()메소드를 이용해서 비교를 한다
+	빈 문자열도 객체로 생성되기 때문에 동일하게 equals()메소드를 이용해서 비교를 한다
 	```java
 	String name22 = "";
 	if(name22.equals("")) { //name 22는 빈 객체이므로 true로 다음 if문이 실행된다.
@@ -158,6 +158,7 @@ char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> "�
 
 
 ### 문자열 길이 : length()
+
 ```java
 String working = "자바 공부하기"; //쿠팡_알바 총 4번쨰 인덱스까지 나온다
 int length = working.length(); // 공백 포함  길이가 7
