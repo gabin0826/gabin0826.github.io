@@ -136,8 +136,10 @@ work1 = null; //null로 지정
 - **비어있는 문자열일 경우 ""**
 	  빈 문자열도 객체로 생성되기 때문에 동일하게 equals()메소드를 이용해서 비교를 한다
 	```java
-	String name22 = "gabin";
-	if(name22.)
+	String name22 = "";
+	if(name22.equals("")) { //name 22는 빈 객체이므로 
+		System~...
+	}
 	```
 
 ---
