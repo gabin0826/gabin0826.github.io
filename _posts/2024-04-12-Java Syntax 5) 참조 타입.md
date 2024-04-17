@@ -82,6 +82,7 @@ aar1과 aa2는 같은 값을 저장하는 것처럼 보이지만 힙 다르게 �
 ```
 
 
+
 ### nullPointerException
 알다시피, 자바 프로그램에서 실행 중 오류를 예외라고 한다. 참조 변수를 사용하면서 발생하는 예외로는 `nullPointerException`이다
 어떨 때 오류가 날까?
@@ -137,10 +138,17 @@ work1 = null; //null로 지정
 	  빈 문자열도 객체로 생성되기 때문에 동일하게 equals()메소드를 이용해서 비교를 한다
 	```java
 	String name22 = "";
-	if(name22.equals("")) { //name 22는 빈 객체이므로 
+	if(name22.equals("")) { //name 22는 빈 객체이므로 true로 다음 if문이 실행된다.
 		System~...
 	}
 	```
+
+
+
+
+
+### 문자ㅕ
+
 
 ---
 ## Array(배열) 타입 참조 변수
