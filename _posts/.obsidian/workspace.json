@@ -44,6 +44,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "2e693d44b59a08a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8622ec8615c0a064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-20-Java Syntax 6) 클래스.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aaa203b99ddb233",
+  "active": "8622ec8615c0a064",
   "lastOpenFiles": [
     "2024-04-12-Java Syntax 5) 참조 타입.md",
     "2024-04-20-Java Syntax 6) 클래스.md",
