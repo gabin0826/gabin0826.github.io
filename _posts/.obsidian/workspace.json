@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-04-20-Java Syntax 6) 클래스.md",
                 "mode": "preview",
                 "source": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-04-20-Java Syntax 6) 클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-04-20-Java Syntax 6) 클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "2024-04-20-Java Syntax 6) 클래스.md"
               }
             }
           },
@@ -204,7 +204,7 @@
     "template/blog template.md",
     "무제 폴더",
     "2024-04-09-옵시디언 포스.md",
-    "무제 파일.md",
+    "2024-04-20-Java Syntax 6) 클래스.md",
     "template"
   ]
 }
