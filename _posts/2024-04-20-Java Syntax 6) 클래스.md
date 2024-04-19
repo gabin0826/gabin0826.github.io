@@ -1,11 +1,8 @@
 ---
 title: Java Syntax 6) 클래스
 author: gabin
-date: 2024-04-20T01:33:00
-categories:
-  - Backend
-  - Java
-  - Syntax
+date: 2024-04-20 T01:33:00
+categories: [Backend, Java, Syntax]
 tags: [객체지향, 클래스, 필드, 메서드, 인스턴스, 생성자, static, final, 패키지, Getter, Setter, 싱글톤패턴, 접근제한자, 이것이자바다]
 toc: true
 ---
