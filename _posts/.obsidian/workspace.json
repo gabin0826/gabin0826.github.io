@@ -44,24 +44,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e82ebcaa776119c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2df7bcd30fb5114b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-12-Java Syntax 5) 참조 타입.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
