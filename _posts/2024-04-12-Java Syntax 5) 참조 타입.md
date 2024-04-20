@@ -237,7 +237,7 @@ boolean result = working.contain("정리하기"); //정리하기가 포함 되�
 ### > 문자열 분리 : split()
 : 여러 문자열을 구분해서 분리한 문자열만 리턴해준다 
 ```java
-String dogs =
+String dogs = "치와와, 코카스패니얼, 닥스훈트, 웰시코기, 비숑, 말라뮤트, 진돗개"
 ```
 
 ---
