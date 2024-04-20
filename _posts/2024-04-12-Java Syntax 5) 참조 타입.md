@@ -323,7 +323,7 @@ double doubleArray[];
 1. 배열 생성
 	`타입[] 변수 = new 타입[길이];` = 길이가 몇인 어떤 타입의 배열을 만들겠다는 의미
 	```java
-	String[] weather = new String[3]
+	String[] weather = new String[3]; // 길이가 3인 배열을 만듦
 	```
 
 ---
