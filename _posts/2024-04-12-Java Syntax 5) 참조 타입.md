@@ -294,12 +294,14 @@ double doubleArray[];
 ```java
 타입[] 변수 = {값1, 값2, 값3, 값4, ...};
 
-String[] weather = {sunny, rainny, cloudy, ..};
+String[] weather = {sunny, rainny, cloudy};
 ```
 
 2. 인덱스를 활용해서 값을 읽기
 ```java
+변수[인덱스] = 값;
 
+weather[2]
 ```
 
 
