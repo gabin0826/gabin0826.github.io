@@ -124,7 +124,7 @@ work1 = null; //null로 지정
 
 <br>
 
-#### 문자열 비교 : equals()
+### > 문자열 비교 : equals()
 자바는 문자열이 동일하면 같은 String 객체를 공유한다
 
 - **같은 객체 공유**
@@ -157,7 +157,7 @@ work1 = null; //null로 지정
 
 <br>
 
-### 문자 추출 : charAt()
+### > 문자 추출 : charAt()
 `charAt()`메소드를 이용하면 되고 매개변수 값으로 인덱스의 문자를 리턴한다
 
 ```java
@@ -167,7 +167,7 @@ char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> "�
 
 
 
-### 문자열 길이 : length()
+### > 문자열 길이 : length()
 
 ```java
 String working = "자바 공부하기";
@@ -176,7 +176,7 @@ int length = working.length(); // 공백 포함  길이가 7
 
 
 
-### 문자열 대체 : replace()
+### > 문자열 대체 : replace()
 ```java
 String working = "이불 정리하기"; 
 String newWorking = working.replace("정리하기","이불 빨래하기");
@@ -185,7 +185,7 @@ String newWorking = working.replace("정리하기","이불 빨래하기");
 
 
 
-### 문자열 자르기 : substring()
+### > 문자열 자르기 : substring()
 
 |                  메소드                   |                   특징                    |
 |:-----------------------------------------:|:-----------------------------------------:|
@@ -197,6 +197,9 @@ String working = "이불 정리하기";
 String newWorking = working.replace("정리하기","이불 빨래하기");
 ```
 
+<br>
+<br>
+<br>
 
 ---
 ## Array(배열) 타입 참조 변수
