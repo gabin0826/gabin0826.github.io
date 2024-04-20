@@ -168,6 +168,7 @@ char charValue = working.charAt(3);// working의 3번째 인덱스 추출 -> "�
 
 
 ### > 문자열 길이 : length()
+:  길이 값을 리턴한다
 
 ```java
 String working = "자바 공부하기";
@@ -199,6 +200,7 @@ String newWorking = working.replace("정리하기","이불 빨래하기");
 
 
 ### > 문자열  찾기 : indexOf()
+
 <br>
 <br>
 <br>
