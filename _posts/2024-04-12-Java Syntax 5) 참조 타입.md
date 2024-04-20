@@ -265,6 +265,12 @@ String[] arr = dogs.split(","); // 쉼표로 구분되고 있다
 1. 추천) `타입[] 변수;`
 2. `타입 변수[];`
 
+```java
+int[] intArray;
+String[] strArray;
+doub
+```
+
 
 ---
 ## 다차원 Array(배열) 타입 참조 변수
