@@ -181,13 +181,12 @@ class Car{ // 라이브러리 클래스
 - 부품 데이터 ex) 차체, 엔진, 타이어
 
 필드 선언 : `타입 필드명 [ = 초기값];` 변수 선언과 동일, ❗️**반드시 클래스 블록에서 선언 되어야 한다**
-- 타입 - > 기본타입 / 참조타입
-- 
+
 ```java
 class Car{ // 라이브러리 클래스
  int speed = 80;
  boolean start = true;
- String model; //null
+ String model; //null -> 필드의 초기값이 지정되지 않으면 초기값이 자동으로 들어간다
 }
 ```
 
