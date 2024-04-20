@@ -314,7 +314,7 @@ double doubleArray[];
 3. 새로운 값으로 저장 = new 생성 연산자 이용
 	```java
 	String[] weather = {sunny, rainny, cloudy};
-	String[] newWeather = new {sun, rain, cloud}
+	weather = new String[] {sun, rain, cloud}; 
 	```
 
 ---
