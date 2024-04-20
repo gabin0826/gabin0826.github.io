@@ -153,12 +153,16 @@ new 클래스명()
 자바는 실행클래스 1개에 여러 라이브러리 클래스를 사용한다
 
 ```java
-public class Car {
+public class CarName {
 	public static void main(String[] args) {
+	
 		Car c1 = new car();
 		System.out.prinln("포르쉐");
+		
 		Car c2 = new car();
-		System.out.rp
+		System.out.println("아우디");
 	}
 }
+
+ca
 ```
