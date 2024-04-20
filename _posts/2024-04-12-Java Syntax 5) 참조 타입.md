@@ -205,8 +205,9 @@ String newWorking2 = working.substing(1,3); //이불 정리하기의 이불(공�
 ### > 문자열  찾기 : indexOf()
 : 주어진 문자열이 시작하는 인덱스를 리턴한다
 ```java
-String working = "이불 정리하기"; 
-int index = working.indexOf("wjd)
+String working = "이불 정리하기";
+Strinng working2 = "이불 빨래하기";
+int index = working.indexOf("정리하기"); //
 ```
 <br>
 <br>
