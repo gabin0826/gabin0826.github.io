@@ -277,9 +277,8 @@ String strArray[];
 double doubleArray[];
    ```
 
-3. 초기값은 null이다
-
-
+3. 초기값은 null이다 `타입[] 변수 = null;`
+ 만약 null인데 데이터를 읽으
 
 
 ---
