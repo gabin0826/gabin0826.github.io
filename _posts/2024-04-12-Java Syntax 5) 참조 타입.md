@@ -200,7 +200,8 @@ String working = "이불 정리하기";
 String newWorking = working.substring(6); //이불 정리하기의 하기가 잘라진다
 String newWorking2 = working.substing(1,3); //이불 정리하기의 이불(공백)이 잘라진다
 ```
-
+<br>
+<br>
 
 ### > 문자열  찾기 : indexOf()
 : 주어진 문자열이 시작하는 인덱스를 리턴한다
@@ -209,6 +210,8 @@ String working = "이불 정리하기";
 Strinng working2 = "이불 빨래하기";
 int index = working.indexOf("정리하기"); //정리하기의 시작인 정은 인덱스가 4번이라 index값으로 4가 저장된다
 ```
+<br>
+
 
 만약 문자열을 포함하는게 없다면 -1을 리턴한다 -> 문자열이 포함되는지 아닌지는 if문과 함께 쓰인다
 ```java
@@ -223,6 +226,8 @@ if(index == -1) {
 	// 포함되는 이불 정리하기가 해당될 것임
 }
 ```
+<br>
+<br>
 
 ### > 단순 문자열 여부 : contains()
 : indexOf() 와 다르게 단순이 포함되는지 아닌지만조사하는 메소드이다
@@ -232,7 +237,7 @@ boolean result = working.contain("정리하기"); //정리하기가 포함 되�
 ```
 <br>
 <br>
-<br>
+
 
 ### > 문자열 분리 : split()
 : 여러 문자열을 구분해서 분리한 문자열만 리턴해준다 
@@ -246,7 +251,7 @@ String[] arr = dogs.split(","); // 쉼표로 구분되고 있다
 
 <br>
 <br>
-<br>
+
 
 ---
 ## Array(배열) 타입 참조 변수
