@@ -197,6 +197,8 @@ String working = "이불 정리하기";
 String newWorking = working.replace("정리하기","이불 빨래하기");
 ```
 
+
+### > 문자열  찾기 : indexOf()
 <br>
 <br>
 <br>
