@@ -210,7 +210,17 @@ Strinng working2 = "이불 빨래하기";
 int index = working.indexOf("정리하기"); //정리하기의 시작인 정은 인덱스가 4번이라 index값으로 4가 저장된다
 ```
 
-만약 문자열을 포함하는게 없다면 -1을 리턴한다
+만약 문자열을 포함하는게 없다면 -1을 리턴한다 -> 문자열이 포함되는지 아닌지는 if문과 함께 쓰인다
+```java
+String working = "이불 정리하기";
+Strinng working2 = "이불 빨래하기";
+int index = working.indexOf("정리하기");
+
+if(index == -1) {
+..
+}
+```
+
 <br>
 <br>
 <br>
