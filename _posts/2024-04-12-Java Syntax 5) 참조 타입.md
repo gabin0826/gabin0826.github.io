@@ -178,15 +178,17 @@ int length = working.length(); // 공백 포함  길이가 7
 
 
 ### > 문자열 대체 : replace()
+: 바뀐 값을 리턴한다
 ```java
 String working = "이불 정리하기"; 
-String newWorking = working.replace("정리하기","이불 빨래하기");
+String newWorking = working.replace("정리하기", "빨래하기");
 ```
 
 
 
 
 ### > 문자열 자르기 : substring()
+:득정
 
 |                  메소드                   |                   특징                    |
 |:-----------------------------------------:|:-----------------------------------------:|
@@ -195,7 +197,7 @@ String newWorking = working.replace("정리하기","이불 빨래하기");
 
 ```java
 String working = "이불 정리하기"; 
-String newWorking = working.replace("정리하기","이불 빨래하기");
+String newWorking = working.substring();
 ```
 
 
