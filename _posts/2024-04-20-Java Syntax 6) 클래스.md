@@ -201,7 +201,7 @@ void method() {
 // 객체 생성
 Car myCar = new Car();
 //외부(클래스)에서 필드 사용
-Car.speed = 30;
+myCar.speed = 30; //도트 연산자를 이용한 스피드값 변경
 }
 ```
 <br>
