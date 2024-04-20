@@ -263,13 +263,20 @@ String[] arr = dogs.split(","); // 쉼표로 구분되고 있다
 : 배열은 같은 타입 값만 관리하기 때문에 변수선언이 필요하다
 
 1. 추천) `타입[] 변수;`
-2. `타입 변수[];`
-
-```java
+   ```java
 int[] intArray;
 String[] strArray;
-doub
+double[] doubleArray;
+   ```
+
+2. `타입 변수[];`
+   ```java
+int[] intArray;
+String[] strArray;
+double[] doubleArray;
 ```
+
+
 
 
 ---
