@@ -301,7 +301,7 @@ String[] weather = {sunny, rainny, cloudy};
 ```java
 변수[인덱스] = 값;
 
-weather[2]
+weather[2] = "cloudy";
 ```
 
 
