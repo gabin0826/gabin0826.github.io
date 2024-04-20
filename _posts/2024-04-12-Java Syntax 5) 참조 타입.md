@@ -304,6 +304,11 @@ String[] weather = {sunny, rainny, cloudy};
 weather[2] = "cloudy";
 ```
 
+❗️ 분리해서 선언이 불가하다
+```java
+타입[] 변수;
+변수 = {값1, ...}; //컴파일 오류
+```
 
 ---
 ## 다차원 Array(배열) 타입 참조 변수
