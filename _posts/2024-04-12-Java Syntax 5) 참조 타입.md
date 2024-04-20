@@ -257,6 +257,7 @@ String[] arr = dogs.split(","); // 쉼표로 구분되고 있다
 - 인덱스는 [ ] 함께 사용하며 값을 읽거나 저장한다
 - ==**같은 타입의 값만 관리**==
 - 길이는 늘리거나 줄일 수 없다 -> 생성 시, 결정됨
+- 참조 변수이기 때문에 힙 영역에 생성되고 
 
 
 ### > 변수 선언
@@ -271,10 +272,10 @@ double[] doubleArray;
 
 2. `타입 변수[];`
    ```java
-int[] intArray;
-String[] strArray;
-double[] doubleArray;
-```
+int intArray[];
+String strArray[];
+double doubleArray[];
+   ```
 
 
 
