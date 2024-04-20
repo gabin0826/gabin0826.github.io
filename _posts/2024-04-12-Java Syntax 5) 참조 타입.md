@@ -217,7 +217,10 @@ Strinng working2 = "이불 빨래하기";
 int index = working.indexOf("정리하기");
 
 if(index == -1) {
+	//포함되지 않는 이불 빨래하기가 해당될 것임
 ..
+} else {
+	// 포함되는 이불 정리하기가 해당될 것임
 }
 ```
 
