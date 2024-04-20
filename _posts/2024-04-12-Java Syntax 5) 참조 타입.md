@@ -312,10 +312,11 @@ double doubleArray[];
 <br>
 
 3. 선언 시점이 다른 경우 = new 생성 연산자 이용
+   
 	```java
 	String[] weather = {sunny, rainny, cloudy};
 	weather = new String[] {sun, rain, cloud}; 
-	```
+	``` ^011a9a
 
 
 ### > new 연산자로 배열 생성
@@ -327,7 +328,7 @@ double doubleArray[];
 String[] weather = new String[3]; // 길이가 3인 배열을 만듦
 ```
 
-추후에 따로 값을 저장하는 것은 
+추후에 따로 값을 저장하는 것은 바ㅗㄹ 
 
 ---
 ## 다차원 Array(배열) 타입 참조 변수
