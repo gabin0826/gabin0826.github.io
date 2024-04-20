@@ -291,11 +291,12 @@ double doubleArray[];
 > 진짜 배열을 생성해보자. 단순하게 값을 목록으로 하는 배열이다
 
 ```java
-타입[] 변수 = {값1, 값2, 3, 4, ...};
+타입[] 변수 = {값1, 값2, 값3, 값4, ...};
 
-String[] weather = {}
+String[] weather = {sunny, rainny, cloudy, ..};
 
 ```
+
 
 ---
 ## 다차원 Array(배열) 타입 참조 변수
