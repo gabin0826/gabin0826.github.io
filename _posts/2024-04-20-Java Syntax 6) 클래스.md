@@ -154,7 +154,7 @@ new 클래스명()
 
 ```java
 public class CarName {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //main() 존재 -> 실행 클래스
 	
 		Car c1 = new car();
 		System.out.prinln("포르쉐");
@@ -164,5 +164,12 @@ public class CarName {
 	}
 }
 
-ca
+class Car{ // 라이브러리 클래스
+ ...
+}
 ```
+
+
+### 
+
+
