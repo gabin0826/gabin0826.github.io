@@ -313,9 +313,8 @@ double doubleArray[];
 
 3. 새로운 값으로 저장 = new 생성 연산자 이용
 	```java
-	타입[] 변수 = {값1, 값2, 값3, 값4, ...};
-	
 	String[] weather = {sunny, rainny, cloudy};
+	String[] newWeather = new {sun, rain, cloud}
 	```
 
 ---
