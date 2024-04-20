@@ -235,7 +235,10 @@ boolean result = working.contain("정리하기"); //정리하기가 포함 되�
 <br>
 
 ### > 문자열 분리 : split()
-: 여러 문자열 
+: 여러 문자열을 구분해서 분리한 문자열만 리턴해준다 
+```java
+String dogs =
+```
 
 ---
 ## Array(배열) 타입 참조 변수
