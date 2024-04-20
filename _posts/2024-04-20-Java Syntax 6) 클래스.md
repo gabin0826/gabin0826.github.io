@@ -155,7 +155,10 @@ new 클래스명()
 ```java
 public class Car {
 	public static void main(String[] args) {
-		Car c1 = 
+		Car c1 = new car();
+		System.out.prinln("포르쉐");
+		Car c2 = new car();
+		System.out.rp
 	}
 }
 ```
