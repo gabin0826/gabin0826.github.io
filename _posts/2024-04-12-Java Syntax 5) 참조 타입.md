@@ -207,8 +207,10 @@ String newWorking2 = working.substing(1,3); //이불 정리하기의 이불(공�
 ```java
 String working = "이불 정리하기";
 Strinng working2 = "이불 빨래하기";
-int index = working.indexOf("정리하기"); //
+int index = working.indexOf("정리하기"); //정리하기의 시작인 정은 인덱스가 4번이라 index값으로 4가 저장된다
 ```
+
+만약 문자열을 포함하는게 없다면 -1을 리턴한다
 <br>
 <br>
 <br>
