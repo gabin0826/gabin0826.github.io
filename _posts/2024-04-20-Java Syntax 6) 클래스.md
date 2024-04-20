@@ -199,7 +199,9 @@ class Car{ // 라이브러리 클래스
 ```java
 void method() {
 // 객체 생성
-ㅊ
+Car myCar = new Car();
+//외부(클래스)에서 필드 사용
+Car.speed = 30;
 }
 ```
 <br>
