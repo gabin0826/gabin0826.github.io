@@ -224,7 +224,21 @@ if(index == -1) {
 }
 ```
 
-### > 단순 문자열 여부 : contai
+### > 단순 문자열 여부 : contains()
+: indexOf() 와 다르게 단순이 포함되는지 아닌지만조사하는 메소드이다
+포함 된다면 true 리턴, 그렇지 않으면 false 리턴
+```java
+String working = "이불 정리하기";
+Strinng working2 = "이불 빨래하기";
+int index = working.indexOf("정리하기");
+
+if(index == -1) {
+	//포함되지 않는 이불 빨래하기가 해당될 것임
+..
+} else {
+	// 포함되는 이불 정리하기가 해당될 것임
+}
+```
 <br>
 <br>
 <br>
