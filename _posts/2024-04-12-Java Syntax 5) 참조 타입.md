@@ -197,7 +197,8 @@ String newWorking = working.replace("정리하기", "빨래하기");
 
 ```java
 String working = "이불 정리하기"; 
-String newWorking = working.substring(6); //이불 정리하기의 하기가 잘라진
+String newWorking = working.substring(6); //이불 정리하기의 하기가 잘라진다
+String newWorking2 = working.substing(1,3); //이불 정리하기의 이불(공백)이 잘라진다
 ```
 
 
